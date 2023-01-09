@@ -1,0 +1,4 @@
+{"firstname": "John", "lastname": "Coner", "email": "myemail@gmail.com", "password": "test123"}
+{"firstname": "John", "lastname": "Wick", "email": "myemail2@gmail.com", "password": "test123"}
+{"firstname": "John", "lastname": "Coner", "email": "myemail@gmail.com", "password": "test123"}
+{"firstname": "John", "lastname": "Wick", "email": "myemail2@gmail.com", "password": "test123"}
