@@ -63,7 +63,7 @@ def login():
 
 
 #create a booking system
-@app.route('/suggest-booking', methods=['GET'])
+@app.route('/suggest-booking', methods=["GET","POST"])
 def suggest_booking():
     num_seats = int(request.args.get('seat'))
     authorization = request.headers.get('Authorization')
