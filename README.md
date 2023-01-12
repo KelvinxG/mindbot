@@ -1,6 +1,6 @@
 
 
-flask python api endpoint for booking seats system
+flask python api endpoint for suggest available seats
 
 install requirements
 
